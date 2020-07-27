@@ -9,6 +9,9 @@
 2. 國立高雄大學資訊工程學系112級系學會資訊長
 
 ## 資訊
+主要使用語言：C++ & Python  
+曾經接觸框架：Flutter(Dart)、Flask(Python)、Qt(C++/Python)  
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiaxuanTW&show_icons=true&theme=dark)  
 
 
