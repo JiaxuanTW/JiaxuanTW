@@ -12,7 +12,6 @@
 <a href="mailto:mike200177@hotmail.com"><img width="28" height="28" src="https://freepngimg.com/thumb/logo/64838-icons-symbol-envelope-computer-mail-logo-email.png" /></a>&nbsp;
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jiaxuantw&label=Profile%20views&color=0e75b6&style=flat" alt="jiaxuantw" /></p>
-<br>
 
 <h2>About Me</h2>
 <p>
