@@ -7,7 +7,7 @@
 <!-- Instagram -->
 <a href="https://www.instagram.com/jiaxuantw/"><img width="28" height="28" src="https://i.pinimg.com/originals/b4/14/76/b414768e7af1948afcbafb9bd4b0fd12.png" /></a>&nbsp;
 <!-- Linkedin -->
-<a href="www.linkedin.com/in/jiaxuantw"><img width="28" height="28" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jiaxuantw/"><img width="28" height="28" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" /></a>&nbsp;
 <!-- Email -->
 <a href="mailto:mike200177@hotmail.com"><img width="28" height="28" src="https://freepngimg.com/thumb/logo/64838-icons-symbol-envelope-computer-mail-logo-email.png" /></a>&nbsp;
 </p>
