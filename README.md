@@ -49,14 +49,5 @@ Hi, I am Jiaxuan, a sophomore student in Dept. Computer Science and Information 
   <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
 </p><br>
 
-<h2>GitHub Info</h2>
-<table>
-  <tr>
-    <td valign="top">
-      <img align="left" alt="Jiaxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jiaxuantw&show_icons=true&hide_border=true" />
-    </td>
-    <td valign="top">
-      <img align="left" alt="Jiaxuan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantw&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<h2>My GitHub Stats</h2>
+<img align="left" alt="Jiaxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jiaxuantw&show_icons=true&hide_border=true" />
