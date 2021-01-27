@@ -1,21 +1,62 @@
-# :earth_asia: 歡迎蒞臨林嘉軒的 Github！
+<h1 align="center">Hello, world!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Jiaxuan Lin</h1>
 
-## 簡介
-#### 大家好！我是林嘉軒，軟體領域新手，專注於網頁與移動裝置軟體開發。  
-在主修資訊工程的這一年來，我最重要的開發經驗，是使用基於 Python 的框架 flask 去寫一個網頁應用程式，應用於我們下學年的新生宿營活動，我們給這個網頁應用程式許多功能，包含帳戶管理、排行榜、道具即時狀態…等，處理這門專案需要同時設計前端與後端，對於我學習網頁開發技術幫助許多，除此之外，我曾經使用過 Qt 與同學寫一個給 C/C++ console application 的結果輸出軟體，還有利用Python 實作網路自動登入器。
+<h3 align="center">Student | Web & Flutter Developer | UI Designer</h3><br>
+<p align="center">
+<!-- Facebook -->
+<a href="https://www.facebook.com/jiaxuantw"><img width="28" height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" /></a>&nbsp;
+<!-- Instagram -->
+<a href="https://www.instagram.com/jiaxuantw/"><img width="28" height="28" src="https://i.pinimg.com/originals/b4/14/76/b414768e7af1948afcbafb9bd4b0fd12.png" /></a>&nbsp;
+<!-- Linkedin -->
+<a href="www.linkedin.com/in/jiaxuantw"><img width="28" height="28" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" /></a>&nbsp;
+<!-- Email -->
+<a href="mailto:mike200177@hotmail.com"><img width="28" height="28" src="https://freepngimg.com/thumb/logo/64838-icons-symbol-envelope-computer-mail-logo-email.png" /></a>&nbsp;
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jiaxuantw&label=Profile%20views&color=0e75b6&style=flat" alt="jiaxuantw" /></p>
+<br>
 
-## 經歷
-1. Google Developer Student Club NUK 2020 Lead  
-2. 國立高雄大學資訊工程學系112級系學會資訊長
+<h2>About Me</h2>
+<p>
+Hi, I am Jiaxuan, a sophomore student in Dept. Computer Science and Information Engineering at National University of Kaohsiung. Currently, I serve as a Developer Student Clubs Lead at my University. My primary programming languages are C++ and Python. I am now focusing on mobile application development, including web apps and flutter, also having great interest in UI design.
+</p><br>
 
-## 資訊
-主要使用語言：C++ & Python  
-曾經接觸框架：Flutter(Dart)、Flask(Python)、Qt(C++/Python)  
+<h2>Languages</h2>
+<p align="left">
+  <!-- C -->
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/></a>
+  <!-- Dart -->
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>&nbsp;
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JiaxuanTW&show_icons=true&theme=dark)  
+<h2>Frameworks & Tools</h2>
+<p align="left">
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+  <!-- flask -->
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
+  <!-- Qt -->
+  <a href="https://www.qt.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>&nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <!-- Heroku -->
+  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
+</p><br>
 
-
-## 連結
-- [Facebook](https://www.facebook.com/jiaxuan9077)
-- [Instagram](https://www.instagram.com/jiaxuan9077)
-- [年輕人的資工筆記](https://www.jiaxuan.nctu.me/)
+<h2>GitHub Info</h2>
+<table>
+  <tr>
+    <td valign="top">
+      <img align="left" alt="Jiaxuan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jiaxuantw&show_icons=true&hide_border=true" />
+    </td>
+    <td valign="top">
+      <img align="left" alt="Jiaxuan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxuantw&layout=compact&hide_border=true" />
+    </td>
+  </tr>
+</table>
