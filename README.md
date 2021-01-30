@@ -15,7 +15,7 @@
 
 <h2>About Me</h2>
 <p>
-Hi, I am Jiaxuan, a sophomore student in Dept. Computer Science and Information Engineering at National University of Kaohsiung. Currently, I serve as a Developer Student Clubs Lead at my University. My primary programming languages are C++ and Python. I am now focusing on mobile application development, including web apps and flutter, also having great interest in UI design.
+Hi, I am Jiaxuan, a sophomore student in Dept. Computer Science and Information Engineering at National University of Kaohsiung. Currently, I serve as a Developer Student Clubs Lead at my University. My primary programming languages are C++ and Python. I am now focusing on mobile application development, including web apps and Flutter, also having a great interest in UI design.
 </p><br>
 
 - 🔭 I’m currently working on **[NUK Course Selection Tool](https://github.com/JiaxuanTW/NUK-Course-Selection-Tool)**, helping hundreds of my classmates
