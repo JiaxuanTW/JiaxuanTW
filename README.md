@@ -18,12 +18,12 @@
 Hi, I am Jiaxuan, a sophomore student in Dept. Computer Science and Information Engineering at National University of Kaohsiung. Currently, I serve as a Developer Student Clubs Lead at my University. My primary programming languages are C++ and Python. I am now focusing on mobile application development, including web apps and flutter, also having great interest in UI design.
 </p><br>
 
-- 🔭 I’m currently working on **NUK Course Selection Tool**, helping hundreds of my classmates
+- 🔭 I’m currently working on **[NUK Course Selection Tool](https://github.com/JiaxuanTW/NUK-Course-Selection-Tool)**, helping hundreds of my classmates
 - :computer: Most used line of code `git commit -m "first commit"`
 - 🤔 I’m looking for ideas of Google Solution Challenge 2021
 - 📫 How to reach me: mike900707@gmail.com / mike200177@hotmail.com
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Everthing is a widget in flutter
+- ⚡ Fun fact: Everthing is a widget in Flutter
 <br>
 
 <h2>Languages</h2>
